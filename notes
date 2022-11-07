@@ -1,0 +1,4 @@
+- Yarn workspace is a tool to setup multiple project inside one repo 
+- Now days many companies follow this methodology 
+- For example- babel open source project (https://github.com/babel/babel)
+- Inside packages folder we have all projects in different directories 
